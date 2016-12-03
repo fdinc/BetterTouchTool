@@ -1,0 +1,25 @@
+{
+  "name": "bettertouchtool_documentation",
+  "version": "1.0.0",
+  "description": "This is the official BetterTouchTool documentation (work in progress)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gitbook": "3.2.2",
+    "gitbook-plugin-wide-page": "1.0.0",
+    "gitbook-plugin-retina": "1.0.4",
+    "gitbook-plugin-expandable-chapters": "0.2.0",
+    "gitbook-plugin-theme-default": "1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fifafu/BetterTouchTool.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Hegenberg",
+  "license": "ISC"
+}
