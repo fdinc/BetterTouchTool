@@ -1,3 +1,5 @@
+**IMPORTANT** : Don't post private requests here (e.g. license issues etc.) please send me an e-mail to boastr.net@gmail.com for such issues.
+
 #### Description of your bug/question/feature request...:
 
 **What kind of Mac are you using?**
