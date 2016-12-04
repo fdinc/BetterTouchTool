@@ -2,7 +2,11 @@
 
 #### Description of your bug/question/feature request...:
 
+
 **What kind of Mac are you using?**
+
+**Which input device (e.g. MacBook Trackad, Magic Mouse, Magic Trackpad Touch Bar) is affected by this?**
+
 
 **Which version of macOS are you running?**
 
